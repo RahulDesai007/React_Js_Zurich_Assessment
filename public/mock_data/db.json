@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Rahul Desai",
+      "age": "21",
+      "gender": "Male",
+      "place": "Panvel",
+      "id": 1
+    },
+    {
+      "name": "Rahul Desai",
+      "age": "22",
+      "gender": "Male",
+      "place": "Panvel",
+      "id": 2
+    }
+  ]
+}
